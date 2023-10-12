@@ -29,13 +29,11 @@ in this guild, i will walk you through the method of lauching an ec2 instance on
    - Configure Instance Details.
    - Add Storage, Tags, and Security Groups.![Alt text](image.png)
 
-   - Review the configurations and click "Launch."![Alt text](<ec2 CLI1.png>)
-
+   - Review the configurations and click "Launch.
 
 4  **Accessing Your EC2 Instance:**
    - Retrieve the public IP address or DNS of your instance.
-   - Connect to your instance using SSH or any other preferred method.![Alt text](<ec2 instance Launched using CLI.png>)
-
+   - Connect to your instance using SSH or any other preferred method.
 
 ## Conclusion
 Congratulations! You have successfully launched an EC2 instance on AWS.![Alt text](<instance launched.png>)
